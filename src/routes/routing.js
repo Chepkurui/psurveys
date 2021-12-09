@@ -15,8 +15,8 @@ export default function RoutesView(props) {
     <BrowserRouter>
       <Routes>
         <Route path="/">
-          {/* <HomeComponent /> */}
-          <LayoutView content={<HomeComponent />} />
+          <HomeComponent />
+          {/* <LayoutView content={<HomeComponent />} /> */}
         </Route>
         <Route path="/register">
           <RegisterComponent />
@@ -25,8 +25,8 @@ export default function RoutesView(props) {
           <LoginComponent />
         </Route>
         <Route path="/home">
-          {/* <StoreComponent /> */}
-          <LayoutView content={<HomeComponent />} />
+          <StoreComponent />
+          {/* <LayoutView content={<HomeComponent />} /> */}
         </Route>
         <Route path="/store">
           <StoreComponent />
