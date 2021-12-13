@@ -1,68 +1,62 @@
 {
   "Header": {
     "title": "Process Surveys (U) Ltd",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "A privately held company founded as a local investment in the year 2018, and registered under the Companies act 2012 of the Republic of Uganda in the year 2017"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "PROCESS SURVEYS (U) LTD consists of a well-experienced team of surveyors and a professional management team. Our team has the technical expertise, equipment and the technology to deliver the best solutions to our clients; and to our clients’ our company is known to be reliable, delivers projects on time and within an agreed budget, and adheres to the highest ethical industry standards.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Our aim is to maintain the highest level of professional integrity, employing best practices to deliver services to our clients in a timely, economic and professional manner. complete every project to its finest standards within the agreed timeframe by both parties"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "In deliverance of our services, we also endeavor to give a prospective contribution to the surveying field in Uganda by investing in the latest technologies, and training our employees accordingly"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/111.jpg",
+      "smallImage": "img/portfolio/111.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/222.jpg",
+      "smallImage": "img/portfolio/222.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/333.jpg",
+      "smallImage": "img/portfolio/333.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/444.jpg",
+      "smallImage": "img/portfolio/444.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/555.jpg",
+      "smallImage": "img/portfolio/555.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/111.jpg",
+      "smallImage": "img/portfolio/111.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/222.jpg",
+      "smallImage": "img/portfolio/222.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/333.jpg",
+      "smallImage": "img/portfolio/333.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/444.jpg",
+      "smallImage": "img/portfolio/444.jpg"
     }
   ],
   "Services": [
@@ -132,28 +126,28 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Grace Babirye",
+      "job": "Engineer"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Grace Babirye",
+      "job": "Senior Engineer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Grace Babirye",
+      "job": "Senior Engineer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Grace Babirye",
+      "job": "Surveyor"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "Kampala, Uganda ",
+    "phone": "+256 7XX XXX XXX",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
@@ -162,23 +156,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Surveying and land documentation",
+      "text": "Land Surveying encompasses the following activities, with surveyors involved in one or more of these"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Engineering Surveys",
+      "text": "We have been recognized by our clients for the quality of the work we do and are committed to delivering sustainable engineering and design"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Real Estate",
+      "text": "Process surveys (U) LTD is a dynamic organization staffed by driven professionals who are among the best in their various fields"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Customized Services",
+      "text": "Specialized property advisory and supervisory services uniquely blended with capacity, knowledge and a deep experience in working with government agencies in the use of public land"
     }
   ]
 }
